@@ -12,6 +12,7 @@ public class Parameters {
         int product = multiply(x, y);
 
         System.out.println("PRODUCT IS: " + product);
+        System.out.println(y);
     }
 
     // the variables a and b are parameters
